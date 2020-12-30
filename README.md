@@ -15,7 +15,7 @@ This app comes with the map snippet that can be used interactively to find the d
 
 [The project can be accessed at my github repository](https://github.com/audluc/Food-Bank-Finder)
 
-![Repository Screenshot](./assets/images/food_bank_finder.png)
+![Repository Screenshot](./assets\images/food_bank_finder.png)
 
 ---
 
