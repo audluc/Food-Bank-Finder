@@ -15,7 +15,7 @@ This app comes with the map snippet that can be used interactively to find the d
 
 [The project can be accessed at my github repository](https://github.com/audluc/Food-Bank-Finder)
 
-![Repository Screenshot](./assets/images/food_bank_finder.png)
+![Repository Screenshot](./build/repoFoodBank.png)
 
 ---
 
@@ -54,20 +54,20 @@ Steps
 ## Usage
 This Project is a Food Bank Locator app that will help you find the nearest three Food Bank Locations. When you open the app, you will have to sign up if you are a new user.
 
-![Start Page!](./assets/images/start_page.png)
+![Start Page!](./build/app.png)
 
 ---
 
 Once logged in, you are presented with a search box wherein you can enter the zip code of the desired location. You will be presented with the three nearest Food banks with their address, city, hours of operation, a button to save the location and link to their website(The click on the name of the Food Bank will redirect you to their website). <br>
 The map is also located on this page to provide you directions.
 
-![Food Bank Locations Page](./assets/images/locations.png)
+![Food Bank Locations Page](./build/locations.png)
 
 ---
 
 On the same page, you are presented with the Saved Locations Button, clicking on which will present you all the saved locations which you have saved in the past.
 
-![Saved Locations](./assets/images/savedLocations.png)
+![Saved Locations](./build/savedLocations.png)
 
 
 ---
