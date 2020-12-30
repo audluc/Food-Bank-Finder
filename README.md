@@ -13,9 +13,9 @@ This app comes with the map snippet that can be used interactively to find the d
 
 ---
 
-[The project can be accessed at my github repository](https://github.com/kaurshalpreetFood-Bank-Finder)
+[The project can be accessed at my github repository](https://github.com/audluc/Food-Bank-Finder)
 
-![Repository Screenshot](./client/public/repoFoodBank.png)
+![Repository Screenshot](./assets/images/food_bank_finder.png)
 
 ---
 
@@ -54,20 +54,20 @@ Steps
 ## Usage
 This Project is a Food Bank Locator app that will help you find the nearest three Food Bank Locations. When you open the app, you will have to sign up if you are a new user.
 
-![Start Page!](./client/public/app.png)
+![Start Page!](./assets/images/start_page.png)
 
 ---
 
 Once logged in, you are presented with a search box wherein you can enter the zip code of the desired location. You will be presented with the three nearest Food banks with their address, city, hours of operation, a button to save the location and link to their website(The click on the name of the Food Bank will redirect you to their website). <br>
 The map is also located on this page to provide you directions.
 
-![Food Bank Locations Page](./client/public/locations.png)
+![Food Bank Locations Page](./assets/images/locations.png)
 
 ---
 
 On the same page, you are presented with the Saved Locations Button, clicking on which will present you all the saved locations which you have saved in the past.
 
-![Saved Locations](./client/public/savedLocations.png)
+![Saved Locations](./assets/images/savedLocations.png)
 
 
 ---
@@ -98,7 +98,7 @@ SHALPREET KAUR [Github - kaurshalpreet](https://github.com/kaurshalpreet) <br>
 ---
 
   ## Questions
-  #### You can reach me via my [Github](https://github.com/kaurshalpreet) account. 
-  #### Email me with any additional questions at: kaurshalpreet@gmail.com
+  #### You can reach me via my [Github](https://github.com/audluc) account. 
+  #### Email me with any additional questions at: audluc44@gmail.com
 
 ---
